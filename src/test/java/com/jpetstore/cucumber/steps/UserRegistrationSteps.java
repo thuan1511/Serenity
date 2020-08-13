@@ -9,12 +9,10 @@ import com.jpetstore.cucumber.steps.serenity.PetStoreSteps;
 import com.jpetstore.utils.PetCategories;
 
 import cucumber.api.DataTable;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import cucumber.api.java.eo.Se;
 import net.serenitybdd.core.Serenity;
 import net.thucydides.core.annotations.Steps;
 

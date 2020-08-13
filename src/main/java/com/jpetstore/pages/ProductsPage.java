@@ -3,7 +3,6 @@ package com.jpetstore.pages;
 import com.jpetstore.utils.PetCategories;
 
 import net.serenitybdd.core.annotations.findby.By;
-import net.serenitybdd.core.pages.WebElementFacade;
 
 //Static Imports for Table
 import static net.thucydides.core.matchers.BeanMatchers.*;

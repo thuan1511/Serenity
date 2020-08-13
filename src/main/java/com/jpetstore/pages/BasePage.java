@@ -37,7 +37,7 @@ public class BasePage  extends PageObject{
 
 	private static final String BIRDS_LINK = "div[id='QuickLinks'] a[href$='BIRDS']";
 
-	private static final String BANNER_IMG = "//*[@id='Banner']/img";
+//	private static final String BANNER_IMG = "//*[@id='Banner']/img";
 	
 	
 	/**
